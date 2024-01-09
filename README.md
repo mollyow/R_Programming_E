@@ -4,7 +4,7 @@
 
 ```r
 library(swirl)
-install_course_github("swirldev", "R_Programming_E")
+install_course_github("mollyow", "R_Programming_E")
 swirl()
 ```
 
